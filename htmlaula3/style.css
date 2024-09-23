@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Kolker+Brush&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #d9d9d9;
+}
+header, footer{
+    height: 50px;
+    text-align: center;
+    background-color: #282546;
+}
+h1{
+    color: white;
+    font-size: 45px;
+}
+main{
+    width: 80%;
+    margin-left: 10%;
+}
+img{
+    width: 100%;
+    margin: 40px auto;
+}
+.title {
+    font-size: 60px;
+    font-family: "Kolker Brush", cursive;
+  font-weight: 400;
+  font-style: normal;
+  border: none;
+}
+.container--descubra, .container--turistico, .container--dicas {
+    background-color: #a59ce9;
+    height: 200px;
+    border-radius: 15px;
+    margin: 30px auto 10px;
+    padding: 10px;
+}
+h2{
+    font-size: 35px;
+    padding: 10px;
+    border-bottom: 3px black solid;
+}
+p{
+    font-size: 25px;
+    margin: 20px;
+    font-weight: bold;
+}
+
+ul{
+    margin: 25px;
+}
+li{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+
+footer p{
+    padding: 15px;
+    color: white;
+    font-size: 20px;
+}
+
